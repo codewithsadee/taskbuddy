@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/taskbuddy?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/taskbuddy?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BWmL66b9bOo?style=social)](https://youtu.be/BWmL66b9bOo)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/?style=social)](https://youtu.be/)
 
   <br />
   <br />
