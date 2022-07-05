@@ -1,0 +1,50 @@
+Taskbuddy
+
+My Day
+Saturday, July 2
+
+aria-label = Toggle menu
+<ion-icon name="ellipsis-horizontal" aria-hidde="true"></ion-icon>
+
+Theme
+
+<ion-icon name="information-circle-outline"></ion-icon>
+App info
+
+alt = calender image
+
+Wondering where
+your tasks are?
+
+Build a todo app ✅
+
+aria-label = Remove task
+<ion-icon name="trash-outline" aria-hidden="true"></ion-icon>
+
+title = Add a task in 'My Day'
+
+aria-label = Add task
+
+placeholder = Try typing 'Jogging 20min at morning'
+
+Add a task
+
+<ion-icon name="add-outline" class="add-icon" aria-hidden="true"></ion-icon>
+
+<ion-icon name="ellipse-outline" class="circle-icon" aria-hidden="true"></ion-icon>
+
+App info
+
+Version:
+1.0.0
+
+Publish:
+06 July 2022
+
+Last Update:
+06 July 2022
+
+Created by:
+codewithsadee
+
+Ok
