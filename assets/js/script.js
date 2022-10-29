@@ -45,7 +45,7 @@ const getWeekDayName = function (dayNumber) {
     case 5:
       return "Friday";
     case 6:
-      return "Satureday";
+      return "Saturday";
     default:
       return "Not a valid day";
   }
